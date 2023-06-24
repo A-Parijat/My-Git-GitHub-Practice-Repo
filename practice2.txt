@@ -1,0 +1,3 @@
+What is GIT?
+GIT is  distributed version control system that allows developer's to track changes, manage the source code and collaborate with other efficiently.
+GIT allows multiple people to work on a single project simultaneously and keep a record of all the changes in the source code.
