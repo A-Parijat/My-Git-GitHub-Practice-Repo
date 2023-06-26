@@ -1,3 +1,19 @@
 What is GIT?
 GIT is  distributed version control system that allows developer's to track changes, manage the source code and collaborate with other efficiently.
 GIT allows multiple people to work on a single project simultaneously and keep a record of all the changes in the source code.
+
+
+Types of VCS:
+1. CVCS - centralised version control system
+2. DVCS - distributed version control system 
+
+
+i. CVS - single central repository
+	- user commits changes to central server
+	- continuous connection to server is required.
+	- central server is th only source of backup
+
+ii. DVCS - every user has indepent copy of complete repo.
+	 - user commits changes to local repo.
+	 - continous connection is not required.
+	 - each user has a backup of repo on his local system.
