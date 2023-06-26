@@ -13,3 +13,5 @@ creates a new branch and switches directly to the branch.
 
 * creating a branch
 git branch <branchName>
+
+added a line from paari
