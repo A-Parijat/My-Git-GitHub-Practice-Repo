@@ -1,0 +1,2 @@
+What is GitHub?
+GitHub is a web-based platform build on top of Git that provides hosting of Git repositories. It offers collabortion features, issue tracking, pull requests and other tools to facilitate team work and open-source development.
