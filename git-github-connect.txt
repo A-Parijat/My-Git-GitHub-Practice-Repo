@@ -1,0 +1,15 @@
+* Connecting Git repo to Github Repositiry.
+-git remote add origin <GitHub Repo URL>
+
+* Push Changes to GitHub 
+- git push -u origin master
+
+* Pulling changes to local
+- git pull origin master
+
+* creating and switching to new branch
+git checkout -b <BranchName>
+creates a new branch and switches directly to the branch.
+
+* creating a branch
+git branch <branchName>
