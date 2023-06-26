@@ -18,5 +18,5 @@ ii. DVCS - every user has indepent copy of complete repo.
 	 - continous connection is not required.
 	 - each user has a backup of repo on his local system.
 
-
 This is all about git and github.
+New info added.
